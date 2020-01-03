@@ -11,8 +11,8 @@
     <title>Ajax同步和异步Demo</title>
   </head>
   <body>
-  <a href="demo1">访问demo1servlet</a>
+  <a href="demo1">同步访问demo1servlet</a>
   <h3>原生ajax(javaScript的ajax)</h3>
-  <a href="js_ajax/hello.jsp">原生ajax入门</a>
+  <a href="js_ajax/hello.jsp">异步ajax入门</a>
   </body>
 </html>
